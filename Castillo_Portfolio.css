@@ -39,7 +39,7 @@ nav a:hover {
 .aboutme{
 text-align: center;
 }
-.credentials {
+.Credentials {
   width: 180px;
   height: 130px;
   object-fit: cover;
@@ -91,4 +91,5 @@ text-align: center;
 
 .contact button:hover {
   background-color: #3b82f6;
+
 }
